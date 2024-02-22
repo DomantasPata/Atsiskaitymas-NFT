@@ -20,13 +20,6 @@
   margin: 0 30px;
 }
 
-.launchingSoon {
-  grid-column: 1/6;
-}
-
-.launchingSoonimg {
-  grid-column: 6/9;
-}
 .banner-image img {
   max-width: 100%;
 }
@@ -55,11 +48,6 @@ nav a:nth-child(4) {
 }
 nav a:hover {
   text-decoration: underline;
-}
-
-.firstSection {
-  margin-top: 40px;
-  padding: 0 30px;
 }
 
 .main-inner h5 {
@@ -125,22 +113,9 @@ button div {
   text-align: center;
 }
 
-.fourthSection {
-  margin: 40px 30px;
-}
-
-.fourthSection h1 {
-  font-size: 40px;
-  font-weight: 500;
-}
-
 span {
   text-decoration: underline;
   font-weight: 500;
-}
-
-.fourthSection > p {
-  font-size: 20px;
 }
 
 .card {
@@ -163,12 +138,6 @@ span {
   text-align: center;
   margin: 15px;
   column-gap: 5px;
-}
-
-.mainCardsection {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
 }
 
 .cardgrid p {
@@ -216,14 +185,6 @@ span {
 .p-4::before {
   content: url(assets/eth.svg);
   padding-right: 5px;
-}
-
-.EndofMain {
-  margin: 0 30px;
-}
-
-.EndofMain p {
-  font-size: 20px;
 }
 
 .socials i {
